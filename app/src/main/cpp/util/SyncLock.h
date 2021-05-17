@@ -1,6 +1,4 @@
-//
-// Created by ByteFlow on 2019/1/23.
-//
+
 
 #ifndef BYTEFLOW_MYLOCK_H
 #define BYTEFLOW_MYLOCK_H

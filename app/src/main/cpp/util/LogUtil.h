@@ -1,6 +1,4 @@
-//
-// Created by ByteFlow on 2019/1/14.
-//
+
 
 #ifndef BYTEFLOW_LOGUTIL_H
 #define BYTEFLOW_LOGUTIL_H

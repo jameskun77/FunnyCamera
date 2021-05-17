@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">FunnyCamera</string>
+    <string name="beauty_param1">美颜</string>
+    <string name="beauty_param2">美白</string>
+    <string name="beauty_param3">清晰</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_resolutions">Resolutions</string>
+    <string name="action_switch_camera">SwitchCamera</string>
 </resources>
